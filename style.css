@@ -175,7 +175,7 @@ html,body {
 .month-list {
     position: relative;
     left: 0;
-    top: -50px;
+    top: 10px;
     background-color: #ebebeb;
     color: var(--light-text);
     display: grid;
