@@ -5,7 +5,7 @@
 
 # Features
 - Clock
-- CUrrent date
+- Current date
 - Month picker
 - Icon
 
