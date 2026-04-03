@@ -1,7 +1,7 @@
 # Calendar
 
 # What is it
-- A simple calendar website that shows the current date and time. You can switch between different months and it highlights today's date.
+- A simple calendar website that shows the current date and time. You can switch between different months and it highlights the current date.
 
 # Features
 - Clock
@@ -22,4 +22,5 @@
 - I learned how to create animations and format dates and times in JavaScript.
 
 # Picture
-<img width="360" height="502" alt="Screenshot 2026-03-29 at 6 34 44 PM" src="https://github.com/user-attachments/assets/519ae23e-cc62-44bc-9b1e-80967d06e498" />
+<img width="468" height="644" alt="Screenshot 2026-04-03 at 2 05 50 PM" src="https://github.com/user-attachments/assets/6d63a670-5eca-496f-95e6-ce7bea037b87" />
+
