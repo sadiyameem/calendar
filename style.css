@@ -5,7 +5,7 @@
     --light-second: #c3c2c8;
     --light-hover: #f0f0f0;
     --light-text: #151426;
-    --light-btn: #9796f0;
+    --light-btn: #b9d1ff;
     --blue: #0000ff;
     --white: #fff;
     --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -55,7 +55,7 @@ html,body {
     justify-content: space-between;
     align-items: center;
     font-weight: 700;
-    color: var(--black);
+    color: var(--white);
     padding: 10px;
 }
 
@@ -68,7 +68,7 @@ html,body {
     grid-template-columns: repeat(7, 1fr);
     font-weight: 600;
     cursor: pointer;
-    color: rgb(104,104,104);
+    color: gray;
 }
 
 .calendar-week-days div:hover {
@@ -161,7 +161,7 @@ html,body {
 
 .calendar-days div:hover {
     transition: width 0.2s ease-in-out, height 0.2s ease-in-out;
-    background-color: #fbc7d4;
+    background-color: #b9d1ff;
     border-radius: 20%;
     color: var(--dark-text);
 }
@@ -235,7 +235,7 @@ html,body {
     font-family: Microsoft JhengHei UI;
     font-size: 1.4rem;
     padding-right: 5%;
-    border-right: 3px solid #9796f0;
+    border-right: 3px solid #b9d1ff;
     position: absolute;
     left: -1rem;
 }
