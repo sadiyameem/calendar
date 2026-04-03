@@ -22,7 +22,7 @@
 html,body {
     place-items: center;
     font-family: var(--font-family);
-    background: linear-gradient(to right, #9796f0, #fbc7d4);
+    background: linear-gradient(#b9d1ff);
     overflow: hidden;
 }
 
@@ -50,12 +50,12 @@ html,body {
 }
 
 .calendar-header {
-    background: #9796f0;
+    background: #b9d1ff;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-weight: 700;
-    color: var(--white);
+    color: var(--black);
     padding: 10px;
 }
 
