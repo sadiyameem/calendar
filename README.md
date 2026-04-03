@@ -1,11 +1,16 @@
 # Calendar
 
 # What is it
-- This is a calendar web app that shows the current month, year, date and time.
-- Users can pick any month
+- A simple calendar website that shows the current date and time. You can switch between different months and it highlights today's date.
+
+# Features
+- Clock
+- CUrrent date
+- Month picker
+- Icon
 
 # Why I made this
-- I made this to pratice my HTML, CSS, and JavaScript while creating something useful
+- I made this to practice my HTML, CSS, and JavaScript while creating something useful
 
 # How I made it
 - HTML
