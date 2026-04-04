@@ -1,3 +1,23 @@
+let btn = document.getElementById('btn');
+let output = document.getElementById('output');
+let quote = [
+  '“Life is short. Smile while you still have teeth.”',
+  '“Life is 10% what happens to you and 90% how you overthink it.”',
+  '“Don’t give up on your dreams. Keep sleeping.”',
+  '“Growing up is realizing your parents were right about everything… except the haircut choices.”',
+  '“I’m not lazy. I’m on energy-saving mode.”',
+  '“I’ll start tomorrow. I meant tomorrow last week too.”',
+  '“You can do anything. But not everything. Calm down.”',
+  '“Wake up. Kick butt. Repeat. Or don’t. Your choice.”',
+  '“Be yourself. Everyone else is taken… and probably tired.”',
+  '“You got this! Probably.”',
+];
+
+btn.addEventListener('click', function() {
+  var randomQuote = quote[Math.floor(Math.random() * quote.length)]
+  output.innerHTML = randomQuote;
+})
+
 const isLeapYear = (year) => {
     return (
       (year % 4 === 0 && year % 100 !== 0 && year % 400 !== 0) ||
